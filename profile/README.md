@@ -14,6 +14,7 @@ The KotlinChennai community is an inclusive group of professionals residing in o
 * Programs must be written for people to read, and only incidentally for machines to execute. ― Harold Abelson,
 * Coding like poetry should be short and concise. ― Santosh Kalwar
 * Clean code always looks like it was written by someone who cares. — Robert C. Martin
+* I'm not a great programmer; I'm just a good programmer with great habits. ― Kent Beck 
 
 👩‍💻 Useful resources 
 
