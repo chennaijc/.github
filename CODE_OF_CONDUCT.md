@@ -1,5 +1,5 @@
 
-# KotlinChennai Code of Conduct
+# Chennai Java [JVM] Community Code of Conduct
 
 ## Our Pledge
 
